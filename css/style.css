@@ -1,0 +1,18 @@
+body {
+  font: 2em "Open Sans", sans-serif;
+  color: aqua;
+}
+
+#output {
+  font: 2em;
+}
+
+.correct {
+  background-color: darkgreen;
+  color:chartreuse;
+}
+
+.incorrect {
+  background-color: firebrick;
+  color:cornflowerblue;
+}
